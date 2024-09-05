@@ -10,7 +10,7 @@ Bu proje, Angular tabanlı bir otel rezervasyon uygulamasıdır. Kullanıcılar 
 - **Rezervasyon Güncelleme**: Mevcut rezervasyonları düzenleyebilir.
 - **Rezervasyon Silme**: Rezervasyonları sistemden kaldırabilir.
 
-## Teknoloji Yığını
+## Teknolojiler
 
 - **Frontend**: Angular (Sürüm 18)
 - **Backend**: Mockoon programı ile ile Mock Api'lar kullanılmıştır.
